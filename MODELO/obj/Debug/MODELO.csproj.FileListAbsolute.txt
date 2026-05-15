@@ -1,0 +1,6 @@
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\MODELO\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\MODELO\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\MODELO\obj\Debug\MODELO.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\MODELO\obj\Debug\MODELO.pdb

@@ -1,0 +1,55 @@
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.Up2Date
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.Up2Date
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.Up2Date
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.Up2Date
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.AssemblyReference.cache
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\bin\Debug\DATOS.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\bin\Debug\MODELO.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\bin\Debug\DATOS.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\bin\Debug\MODELO.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\NEGOCIO\obj\Debug\NEGOCIO.csproj.Up2Date

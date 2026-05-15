@@ -1,0 +1,65 @@
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.Up2Date
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\obj\Debug\DATOS.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\obj\Debug\DATOS.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.xml
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\obj\Debug\DATOS.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\obj\Debug\DATOS.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.xml
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.Up2Date
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.xml
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.Up2Date
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\obj\Debug\DATOS.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\DATOS\obj\Debug\DATOS.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.xml
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.Up2Date
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\obj\Debug\DATOS.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\DATOS\obj\Debug\DATOS.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.AssemblyReference.cache
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\obj\Debug\DATOS.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\obj\Debug\DATOS.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\bin\Debug\DATOS.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\bin\Debug\DATOS.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\bin\Debug\MODELO.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\bin\Debug\MODELO.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\bin\Debug\System.Data.SqlClient.xml
+C:\PROGRAMADOR_Z9\SistemaHotel\DATOS\obj\Debug\DATOS.csproj.Up2Date

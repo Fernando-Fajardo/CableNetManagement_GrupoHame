@@ -1,0 +1,110 @@
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\FontAwesome.Sharp.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.HuespedesForm.resources
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.exe.config
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.EmpleadosForm.resources
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.HabitacionesForm.resources
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.ServiciosForm.resources
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 1\TAREA SEMANA_1\SistemaHotel\PRESENTACION\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.exe.config
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.EmpleadosForm.resources
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.HabitacionesForm.resources
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.HuespedesForm.resources
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.ServiciosForm.resources
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\FontAwesome.Sharp.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+C:\BDD2\SEMANA 4\TareaSemana4\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Menu.resources
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\FontAwesome.Sharp.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.EmpleadosForm.resources
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.HabitacionesForm.resources
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.HuespedesForm.resources
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Menu.resources
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.ServiciosForm.resources
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\BDD2\SEMANA 5\TareaSemana5\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.EmpleadosForm.resources
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.HabitacionesForm.resources
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.HuespedesForm.resources
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Menu.resources
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.ServiciosForm.resources
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\FontAwesome.Sharp.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\MODELO.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\DATOS.dll
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\MODELO.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\bin\Debug\DATOS.pdb
+C:\BDD2\SEMANA 7\TareaSemana7\SistemaHotel\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\FontAwesome.Sharp.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\MODELO.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\DATOS.dll
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\MODELO.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\NEGOCIO.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\bin\Debug\DATOS.pdb
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.ClientesForm.resources
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Menu.resources
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.ServiciosForm.resources
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+C:\PROGRAMADOR_Z9\SistemaHotel\PRESENTACION\obj\Debug\PRESENTACION.AsignacionForm.resources
